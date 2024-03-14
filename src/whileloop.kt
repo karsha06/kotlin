@@ -1,0 +1,17 @@
+fun main(args: Array<String>) {
+    var num=10
+
+    while(num>=5){
+        println(num)
+    num--
+        }
+
+    var num2=0
+    while(num2>=20){
+        println(num2)
+        num--
+
+    }    }
+
+
+
